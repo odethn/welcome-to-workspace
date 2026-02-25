@@ -1,6 +1,5 @@
 echo "Hola mundo"
 
-```bash
 # Imprime texto con formato
 
 printf "Esto es %s con %d formato\n" "un ejemplo" 1
@@ -10,4 +9,4 @@ printf "Esto es %s con %d formato\n" "un ejemplo" 1
 echo "  /\\_/\\"
 echo " ( o.o )"
 echo "  > ^ <"
-```
+
